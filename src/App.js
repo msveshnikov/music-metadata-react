@@ -1,7 +1,6 @@
 /* eslint-disable jsx-a11y/alt-text */
 /* eslint-disable react/jsx-no-target-blank */
 import React, { Component } from "react";
-import "./App.css";
 import * as mmb from "music-metadata-browser";
 
 class App extends Component {
